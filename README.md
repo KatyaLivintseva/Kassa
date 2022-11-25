@@ -7,3 +7,14 @@
 #### Как открыть код
 Чтобы протестировать программу, нужно скопировать её (kassa.py) и открыть в Python версии 3 и выше
 #### Скриншоты программы
+тест 1
+![image](https://user-images.githubusercontent.com/113354368/203913610-5080beb8-59b1-4965-bdcd-897ac243439a.png)
+
+тест 2
+![image](https://user-images.githubusercontent.com/113354368/203913727-89668134-8d0c-48d6-bb20-10bff0483a33.png)
+
+тест 3
+![image](https://user-images.githubusercontent.com/113354368/203913746-9a6f8dc7-6963-4c1a-9b57-a748bddb379f.png)
+
+тест 4
+![image](https://user-images.githubusercontent.com/113354368/203913665-df450f83-49d4-44b2-be00-c3dd199ae971.png)
